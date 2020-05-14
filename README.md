@@ -13,3 +13,7 @@ Hence, the management has contracted an HR analytics firm to understand what fac
 We are required to understand why this high level of attrition happens. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
 
 Also, build a model to predict the probability of attrition of a given employee.
+
+# Dataset
+link of the problem on kaggle + datase
+https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study#employee_survey_data.csv
